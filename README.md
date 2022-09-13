@@ -22,4 +22,4 @@ Requires [Docker](https://www.docker.com/) and [Node](https://nodejs.org/en/)
 
 ## Acknowledgments
 
-Project created for Rob Hess' Cloud Application Development course at Oregon State University in the Spring 2022 term
+Project created for Cloud Application Development course at Oregon State University
