@@ -10,7 +10,7 @@ Run program with
 ```
 npm start
 ```
-
+For testing:
 ```
 Insomnia_Tests.json
 ``` 
