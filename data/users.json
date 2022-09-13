@@ -1,0 +1,43 @@
+[{
+        "name": "Nicholas Broce",
+        "email": "broce@gmail.com",
+        "password": "hunter2",
+        "role": "admin"
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "email": "ben@gmail.com",
+        "password": "hunter2",
+        "role": "instructor"
+    },
+    {
+        "name": "Yoda",
+        "email": "green_frog@gmail.com",
+        "password": "hunter2",
+        "role": "instructor"
+    },
+    {
+        "name": "Luke Skywalker",
+        "email": "luke@gmail.com",
+        "password": "hunter2",
+        "role": "student"
+    },
+    {
+        "name": "Leia Organa",
+        "email": "leia@gmail.com",
+        "password": "hunter2",
+        "role": "student"
+    },
+    {
+        "name": "Han Solo",
+        "email": "solo@gmail.com",
+        "password": "hunter2",
+        "role": "student"
+    },
+    {
+        "name": "Biggs Darklighter",
+        "email": "red3@gmail.com",
+        "password": "hunter2",
+        "role": "student"
+    }
+]

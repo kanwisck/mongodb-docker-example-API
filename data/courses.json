@@ -1,0 +1,88 @@
+[
+    {
+        "subject" : "JM",
+        "number" : "101",
+        "title" : "The Force 101",
+        "term" : "sp22",
+        "enrolled": []
+    },
+
+    {
+        "subject" : "JM",
+        "number" : "201",
+        "title" : "Intro to Meditation",
+        "term" : "sp22",
+        "enrolled": []
+    },
+
+    {
+        "subject" : "SM",
+        "number" : "101",
+        "title" : "Smugglers 101",
+        "term" : "sp22",
+        "enrolled": []
+    },
+    {
+        "subject" : "SM",
+        "number" : "201",
+        "title" : "Talking with Crimelords",
+        "term" : "sp22",
+        "enrolled": []
+    },
+    {
+        "subject" : "RE",
+        "number" : "101",
+        "title" : "How to Rebel",
+        "term" : "sp22",
+        "enrolled": []
+    },
+    {
+        "subject" : "FL",
+        "number" : "101",
+        "title" : "Intro to X-Wings",
+        "term" : "sp22",
+        "enrolled": []
+    },
+    {
+        "subject" : "EM",
+        "number" : "101",
+        "title" : "Empire History",
+        "term" : "sp22",
+        "enrolled": []
+    },
+    {
+        "subject" : "EM",
+        "number" : "102",
+        "title" : "Empire History: First Order",
+        "term" : "sp22",
+        "enrolled": []
+    },
+    {
+        "subject" : "FL",
+        "number" : "102",
+        "title" : "Intro to TIE Fighters",
+        "term" : "sp22",
+        "enrolled": []
+    },
+    {
+        "subject" : "JM",
+        "number" : "401",
+        "title" : "Advanced Force Jumping",
+        "term" : "sp22",
+        "enrolled": []
+    },
+    {
+        "subject" : "DR",
+        "number" : "101",
+        "title" : "Intro to Droid Binary",
+        "term" : "sp22",
+        "enrolled": []
+    },
+    {
+        "subject" : "DR",
+        "number" : "401",
+        "title" : "Advanced Language Translations",
+        "term" : "sp22",
+        "enrolled": []
+    }
+]
