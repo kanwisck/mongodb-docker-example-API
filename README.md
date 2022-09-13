@@ -1,5 +1,5 @@
 # MongoDB Docker API Example
-A Node-based MongoDB Docker API for an Alternative to Canvas
+A Node-based MongoDB Docker API for an alternative to Canvas
 
 ## Description
 
